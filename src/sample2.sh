@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /var/lib/jenkins/workspace/gitlab-integration-test/src/
+cd /root/work/kmatsuno/sample/src/
 pwd
 echo "Main-Class: Sample" >> manifest.mf
 javac hello.java
